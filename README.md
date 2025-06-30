@@ -7,6 +7,14 @@ This is the resposiory to read digit from the electronic device and report the n
 
 <p align="justify"> This repository evaluated several QWEN model versions and selected the one that performs best at digit recognition. </p>
 
+The proposed approach unfolds in three core phases:
+
+Preprocessing – an edge‐detection network first processes each digit image to delineate its contours.
+
+Digit recognition – a detection model then takes those boundary‐enhanced outputs to identify the digits.
+
+Validation & refinement – the phase-2 predictions are reviewed, and the model is fine-tuned based on that feedback.
+
 # Result
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c37c9fb8-a79c-4796-b7c9-16ba5fe56059" width="350" title="Generated Image">
