@@ -16,6 +16,7 @@ Digit recognition – a detection model then takes those boundary‐enhanced out
 Validation & refinement – the phase-2 predictions are reviewed, and the model is fine-tuned based on that feedback.
 
 # Result
+## Pictures
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c37c9fb8-a79c-4796-b7c9-16ba5fe56059" width="350" title="Generated Image">
   <img src="https://github.com/user-attachments/assets/bdf3255c-1e78-40bf-8ac8-35b5ec59ba45" width="350" title="Generated Image">
