@@ -8,3 +8,12 @@ This is the resposiory to read digit from the electronic device and report the n
 <p align="justify"> This repository evaluated several QWEN model versions and selected the one that performs best at digit recognition. </p>
 
 # Result
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c37c9fb8-a79c-4796-b7c9-16ba5fe56059" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/bdf3255c-1e78-40bf-8ac8-35b5ec59ba45" width="350" title="Generated Image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/00917038-2415-4029-94d5-7537baa12a20" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/d4cec710-4324-4156-9a2f-7a60824cd523" width="350" title="Generated Image">
+</p>
