@@ -17,3 +17,14 @@ This is the resposiory to read digit from the electronic device and report the n
   <img src="https://github.com/user-attachments/assets/00917038-2415-4029-94d5-7537baa12a20" width="350" title="Generated Image">
   <img src="https://github.com/user-attachments/assets/d4cec710-4324-4156-9a2f-7a60824cd523" width="350" title="Generated Image">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44e626bb-d1fa-490a-b28b-25ea251956a2" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/374b2f36-4724-45ff-870c-a5fe2e48809b" width="350" title="Generated Image">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7108d9bb-84a2-441d-937e-1ed18d177675" width="350" title="Generated Image">
+  <img src="https://github.com/user-attachments/assets/5bd4c754-c40b-43ad-bca3-838eadd01145" width="350" title="Generated Image">
+</p>
+
