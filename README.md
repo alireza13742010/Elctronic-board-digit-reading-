@@ -37,3 +37,6 @@ Validation & refinement – the phase-2 predictions are reviewed, and the model 
   <img src="https://github.com/user-attachments/assets/5bd4c754-c40b-43ad-bca3-838eadd01145" width="350" title="Generated Image">
 </p>
 
+# Contact US
+Email: alireza.tavakol@ut.ac.ir
+Site: https://avidmech.ir/contact-us/
